@@ -1,0 +1,32 @@
+{
+	"customer_id": 1,
+	"use_location": false,
+	"products": [
+		{
+			"product_id": "3424000",
+			"variant_id": "3477",
+			"qty": 1
+		},
+		{
+			"product_id": "3418",
+			"variant_id": "3492",
+			"qty": 1
+		},
+		{
+			"product_id": "2997",
+			"variant_id": "3000",
+			"qty": 4
+		},
+		{
+			"product_id": "3401",
+			"variant_id": "",
+			"qty": 1
+		}
+	],
+	"location": {
+		"country_code": "IN",
+		"state_code": "TN",
+		"postcode": "600001",
+		"city": "Chennai"
+	}
+}

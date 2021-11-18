@@ -1,0 +1,145 @@
+{
+	"id": 1,
+	"date_created": "2021-02-15T13:20:59",
+	"date_created_gmt": "2021-02-15T13:20:59",
+	"date_modified": "2021-11-05T17:16:10",
+	"date_modified_gmt": "2021-11-05T17:16:10",
+	"email": "user@example.com",
+	"first_name": "linges",
+	"last_name": "waran",
+	"role": "administrator",
+	"username": "user",
+	"billing": {
+		"first_name": "Sid",
+		"last_name": "C",
+		"company": "vajro",
+		"address_1": "1st, main road",
+		"address_2": "OMR",
+		"city": "chennai",
+		"postcode": "600008",
+		"country": "IN",
+		"state": "TN",
+		"email": "sidmail@gmail.com",
+		"phone": "0987654321"
+	},
+	"shipping": {
+		"first_name": "Sid",
+		"last_name": "C",
+		"company": "vajro",
+		"address_1": "1st, main road",
+		"address_2": "OMR",
+		"city": "chennai",
+		"postcode": "600008",
+		"country": "IN",
+		"state": "TN"
+	},
+	"is_paying_customer": false,
+	"avatar_url": "https://secure.gravatar.com/avatar/b58996c504c5638798eb6b511e6f49af?s=96&d=mm&r=g",
+	"meta_data": [
+		{
+			"id": 18,
+			"key": "jetpack_tracks_anon_id",
+			"value": "jetpack:n0Ev429fHvU9WqN86M1Ij5Dm"
+		},
+		{
+			"id": 20,
+			"key": "community-events-location",
+			"value": {
+				"ip": "111.92.42.0"
+			}
+		},
+		{
+			"id": 611,
+			"key": "wc_last_active",
+			"value": "1636502400"
+		},
+		{
+			"id": 618,
+			"key": "woocommerce_admin_activity_panel_inbox_last_read",
+			"value": "1636132569802"
+		},
+		{
+			"id": 841,
+			"key": "meta-box-order_product",
+			"value": {
+				"side": "woocommerce-product-data,,submitdiv,product_catdiv,tagsdiv-product_tag,astra_settings_meta_box,postimagediv",
+				"normal": "postcustom,slugdiv,commentsdiv",
+				"advanced": "woocommerce-product-images,postexcerpt"
+			}
+		},
+		{
+			"id": 842,
+			"key": "screen_layout_product",
+			"value": "1"
+		},
+		{
+			"id": 909,
+			"key": "astra-sites-5-start-notice",
+			"value": "notice-dismissed"
+		},
+		{
+			"id": 1019,
+			"key": "shipping_phone",
+			"value": "0987654321"
+		},
+		{
+			"id": 1034,
+			"key": "elementor_admin_notices",
+			"value": {
+				"woocommerce_promote": "true"
+			}
+		},
+		{
+			"id": 1618,
+			"key": "shipping_method",
+			"value": ["flat_rate:4"]
+		},
+		{
+			"id": 1990,
+			"key": "thwma_custom_address",
+			"value": {
+				"billing": {
+					"address_0": {
+						"billing_first_name": "linges",
+						"billing_last_name": "waran",
+						"billing_company": "vajro",
+						"billing_country": "IN",
+						"billing_address_1": "1st, main road",
+						"billing_address_2": "Cumbum",
+						"billing_city": "theni",
+						"billing_state": "TN",
+						"billing_postcode": "625521",
+						"billing_phone": "987654321",
+						"billing_email": "user@example.com"
+					},
+					"address_1": {
+						"billing_first_name": "test",
+						"billing_last_name": "001",
+						"billing_company": "vajro",
+						"billing_country": "IN",
+						"billing_address_1": "1st, main road",
+						"billing_address_2": "OMR",
+						"billing_city": "chennai",
+						"billing_state": "TN",
+						"billing_postcode": "600008",
+						"billing_phone": "0987654321",
+						"billing_email": "test001@vajro.com"
+					}
+				},
+				"default_billing": "address_1"
+			}
+		}
+	],
+	"_links": {
+		"self": [
+			{
+				"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/customers/1"
+			}
+		],
+		"collection": [
+			{
+				"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/customers"
+			}
+		]
+	}
+}

@@ -1,0 +1,50 @@
+[
+	{
+		"id": 94,
+		"date_created": "2021-09-20T06:44:49",
+		"date_created_gmt": "2021-09-20T06:44:49",
+		"date_modified": "2021-09-21T18:10:31",
+		"date_modified_gmt": "2021-09-21T18:10:31",
+		"email": "aarthi.manickam@rap.ventures",
+		"first_name": "Aarthi",
+		"last_name": "M",
+		"role": "customer",
+		"username": "AarthiManickam",
+		"billing": {
+			"first_name": "Aarthi",
+			"last_name": "M",
+			"company": "",
+			"address_1": "RSFlats,B1",
+			"address_2": "",
+			"city": "Chennai",
+			"postcode": "600059",
+			"country": "IN",
+			"state": "TN",
+			"email": "aarthi.manickam@rap.ventures",
+			"phone": "9876543212"
+		},
+		"shipping": {
+			"first_name": "Aarthi",
+			"last_name": "M",
+			"company": "",
+			"address_1": "RSFlats,B1",
+			"address_2": "",
+			"city": "Chennai",
+			"postcode": "600059",
+			"country": "IN",
+			"state": "TN"
+		},
+		"is_paying_customer": false,
+		"avatar_url": "https://secure.gravatar.com/avatar/25225459dbf5be4e7afe7956e9b3497e?s=96&d=mm&r=g",
+		"meta_data": [
+			{ "id": 2374, "key": "wc_last_active", "value": "1632096000" },
+			{ "id": 2377, "key": "shipping_method", "value": ["flat_rate:1"] },
+			{ "id": 2378, "key": "shipping_phone", "value": "9876543212" },
+			{ "id": 2412, "key": "default_password_nag", "value": "" }
+		],
+		"_links": {
+			"self": [{ "href": "https://woo-store1.blynklive.com/wp-json/wc/v3/customers/94" }],
+			"collection": [{ "href": "https://woo-store1.blynklive.com/wp-json/wc/v3/customers" }]
+		}
+	}
+]

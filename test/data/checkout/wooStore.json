@@ -1,0 +1,70 @@
+{
+	"tax_setting": [
+		{
+			"id": "woocommerce_prices_include_tax",
+			"value": "no",
+			"options": {
+				"yes": "Yes, I will enter prices inclusive of tax",
+				"no": "No, I will enter prices exclusive of tax"
+			}
+		},
+		{
+			"id": "woocommerce_tax_based_on",
+			"value": "shipping",
+			"options": {
+				"shipping": "Customer shipping address",
+				"billing": "Customer billing address",
+				"base": "Shop base address"
+			}
+		},
+		{
+			"id": "woocommerce_shipping_tax_class",
+			"value": null,
+			"options": {
+				"inherit": "Shipping tax class based on cart items",
+				"": "Standard",
+				"us": "US",
+				"zero": "Zero"
+			}
+		},
+		{
+			"id": "woocommerce_tax_round_at_subtotal",
+			"value": "no",
+			"options": null
+		},
+		{
+			"id": "woocommerce_tax_classes",
+			"value": null,
+			"options": null
+		},
+		{
+			"id": "woocommerce_tax_display_shop",
+			"value": "excl",
+			"options": {
+				"incl": "Including tax",
+				"excl": "Excluding tax"
+			}
+		},
+		{
+			"id": "woocommerce_tax_display_cart",
+			"value": "excl",
+			"options": {
+				"incl": "Including tax",
+				"excl": "Excluding tax"
+			}
+		},
+		{
+			"id": "woocommerce_price_display_suffix",
+			"value": "ex VAT",
+			"options": null
+		},
+		{
+			"id": "woocommerce_tax_total_display",
+			"value": "itemized",
+			"options": {
+				"single": "As a single total",
+				"itemized": "Itemized"
+			}
+		}
+	]
+}

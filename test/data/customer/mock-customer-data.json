@@ -1,0 +1,19 @@
+{
+	"customer_id": 94,
+	"first_name": "Aarthi",
+	"last_name": "M",
+	"email": "aarthi.manickam@rap.ventures",
+	"username": "AarthiManickam",
+	"phone": "9876543212",
+	"contact_details": {
+		"first_name": "Aarthi",
+		"last_name": "M",
+		"address_1": "RSFlats,B1",
+		"address_2": "",
+		"city": "Chennai",
+		"country": "IN",
+		"state": "TN",
+		"zip_code": "600059",
+		"phone_number": "9876543212"
+	}
+}

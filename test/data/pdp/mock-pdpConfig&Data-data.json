@@ -1,0 +1,191 @@
+{
+	"version": "v1",
+	"page_name": "pdp",
+	"store_id": "a2b",
+	"config": {
+	  "bg_color": "#F6F6F6"
+	},
+	"data": {
+	  "product_id": 3215
+	},
+	"header_widgets": [
+	  {
+		"widget_name": "toolbar",
+		"config": {
+		  "show_back_icon": true,
+		  "show_cart_icon": true,
+		  "show_search_icon": true,
+		  "show_share_icon": false
+		}
+	  }
+	],
+	"scroll_widgets": [
+	  {
+		"widget_name": "media",
+		"position": 0,
+		"config": {
+		  "align_whislist_icon": "bottom_right",
+		  "show_whislist_icon": true,
+		  "show_pagination_icon": true,
+		  "media_aspect_ratio": 1
+		},
+		"data": {
+		  "urls": [
+			{
+			  "media_id": 3217,
+			  "url": "https://woo-store1.blynklive.com/wp-content/uploads/2021/08/photo-1523275335684-37898b6baf30.jpeg"
+			}
+		  ]
+		}
+	  },
+	  {
+		"widget_name": "product_name",
+		"position": 1,
+		"config": {
+		  "align": "center",
+		  "font_size": 18,
+		  "font_color": "#000000",
+		  "font_type": "bold"
+		},
+		"data": {
+		  "product_name": "Sample product with video"
+		}
+	  },
+	  {
+		"widget_name": "reviews",
+		"position": 2,
+		"config": {
+		  "align": "left",
+		  "font_size": 18,
+		  "font_color": "#000000",
+		  "font_type": "bold",
+		  "star_color": "#EFEFEF",
+		  "show_share_icon": false,
+		  "align_share_icon": "right"
+		},
+		"data": {
+		  "average_rating": 4,
+		  "reviews_count": 3
+		}
+	  },
+	  {
+		"widget_name": "product_price",
+		"position": 3,
+		"config": {
+		  "align": "left",
+		  "show_price": true,
+		  "show_selling_price": true,
+		  "show_discount_price": true,
+		  "regular_price_font_size": 18,
+		  "regular_price_font_color": "#000000",
+		  "regular_price_font_type": "strikethrough",
+		  "sale_price_font_size": 20,
+		  "sale_price_font_color": "#000000",
+		  "sale_price_font_type": "bold",
+		  "discount_percentage_font_size": 16,
+		  "discount_percentage_font_color": "#000000",
+		  "discount_percentage_font_type": "italic"
+		},
+		"data": {
+		  "regular_price": 20,
+		  "sale_price": 18,
+		  "discount_percentage": 10
+		}
+	  },
+	  {
+		"widget_name": "variant_horizontal",
+		"position": 4,
+		"config": {
+		  "show_title": true,
+		  "title_font_size": 18,
+		  "title_font_color": "#000000",
+		  "title_font_type": "bold",
+		  "show_value": true,
+		  "value_font_size": 18,
+		  "value_font_color": "#000000",
+		  "value_font_type": "bold",
+		  "show_size_chart": true
+		},
+		"data": {
+		  "options": [],
+		  "variants": []
+		}
+	  },
+	  {
+		"widget_name": "product_description",
+		"position": 5,
+		"config": {
+		  "content_font_size": 18,
+		  "content_font_color": "#000000",
+		  "content_font_type": "bold",
+		  "title": {
+			"align_title": "left",
+			"show_title": true,
+			"title_font_size": 18,
+			"title_font_color": "#000000",
+			"title_font_type": "bold"
+		  },
+		  "readall": {
+			"readall_font_size": 18,
+			"readall_font_color": "#000000",
+			"readall_font_type": "bold"
+		  }
+		},
+		"data": {
+		  "product_description": "<div id='gallery-1' class='gallery galleryid-0 gallery-columns-3 gallery-size-thumbnail'>\n<figure class='gallery-item'>\n<div class='gallery-icon landscape'>\n\t\t\t\t<a href='https://woo-store1.blynklive.com/?attachment_id=3217'><img width=\"150\" height=\"150\" src=\"https://woo-store1.blynklive.com/wp-content/uploads/2021/08/photo-1523275335684-37898b6baf30-150x150.jpeg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" srcset=\"https://woo-store1.blynklive.com/wp-content/uploads/2021/08/photo-1523275335684-37898b6baf30-150x150.jpeg 150w, https://woo-store1.blynklive.com/wp-content/uploads/2021/08/photo-1523275335684-37898b6baf30-300x300.jpeg 300w, https://woo-store1.blynklive.com/wp-content/uploads/2021/08/photo-1523275335684-37898b6baf30-100x100.jpeg 100w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</div>\n</figure>\n<figure class='gallery-item'>\n<div class='gallery-icon landscape'>\n\t\t\t\t<a href='https://woo-store1.blynklive.com/?attachment_id=2915'><img width=\"150\" height=\"150\" src=\"https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_4_front-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" srcset=\"https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_4_front-150x150.jpg 150w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_4_front-300x300.jpg 300w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_4_front-768x768.jpg 768w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_4_front-600x600.jpg 600w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_4_front-100x100.jpg 100w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_4_front.jpg 1000w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</div>\n</figure>\n<figure class='gallery-item'>\n<div class='gallery-icon landscape'>\n\t\t\t\t<a href='https://woo-store1.blynklive.com/?attachment_id=2913'><img width=\"150\" height=\"150\" src=\"https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_5_back-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" srcset=\"https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_5_back-150x150.jpg 150w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_5_back-300x300.jpg 300w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_5_back-768x768.jpg 768w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_5_back-600x600.jpg 600w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_5_back-100x100.jpg 100w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_5_back.jpg 1000w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</div>\n</figure>\n<figure class='gallery-item'>\n<div class='gallery-icon landscape'>\n\t\t\t\t<a href='https://woo-store1.blynklive.com/?attachment_id=2912'><img width=\"150\" height=\"150\" src=\"https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_5_front-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" srcset=\"https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_5_front-150x150.jpg 150w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_5_front-300x300.jpg 300w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_5_front-768x768.jpg 768w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_5_front-600x600.jpg 600w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_5_front-100x100.jpg 100w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_5_front.jpg 1000w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</div>\n</figure>\n<figure class='gallery-item'>\n<div class='gallery-icon landscape'>\n\t\t\t\t<a href='https://woo-store1.blynklive.com/?attachment_id=2910'><img width=\"150\" height=\"150\" src=\"https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_6_back-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail\" alt=\"\" loading=\"lazy\" srcset=\"https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_6_back-150x150.jpg 150w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_6_back-300x300.jpg 300w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_6_back-768x768.jpg 768w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_6_back-600x600.jpg 600w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_6_back-100x100.jpg 100w, https://woo-store1.blynklive.com/wp-content/uploads/2021/06/T_6_back.jpg 1000w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></a>\n\t\t\t</div>\n</figure></div>\n",
+		  "short_description": ""
+		}
+	  },
+	  {
+		"widget_name": "recently_viewed",
+		"position": 6,
+		"config": {
+		  "regular_price_font_size": 18,
+		  "regular_price_font_color": "#000000",
+		  "regular_price_font_type": "strikethrough",
+		  "sale_price_font_size": 20,
+		  "sale_price_font_color": "#000000",
+		  "sale_price_font_type": "bold",
+		  "discount_percentage_font_size": 16,
+		  "discount_percentage_font_color": "#000000",
+		  "discount_percentage_font_type": "italic",
+		  "product_name_font_color": "#000000",
+		  "product_name_font_type": "bold",
+		  "product_name_font_size": 16,
+		  "show_wishlist": false,
+		  "image_aspect_ratio": 1,
+		  "image_content_mode": "aspect_fit",
+		  "display_no_of_product": 5,
+		  "title": {
+			"align_title": "left",
+			"show_title": true,
+			"title_font_size": 18,
+			"title_font_color": "#000000",
+			"title_font_type": "bold"
+		  },
+		  "readall": {
+			"readall_font_size": 18,
+			"readall_font_color": "#000000",
+			"readall_font_type": "bold"
+		  }
+		}
+	  }
+	],
+	"footer_widgets": [
+	  {
+		"widget_name": "add_to_cart",
+		"config": {
+		  "align": "center",
+		  "show_buynow_button": true,
+		  "show_addtocart_button": true,
+		  "buynow_button_color": "#FFFFFF",
+		  "buynow_button_broder": "#0000000",
+		  "buynow_button_text_color": "#000000",
+		  "addtocart_button_color": "#5F2EEA",
+		  "addtocart_button_broder": "#5F2EEA",
+		  "addtocart_button_text_color": "#FFFFFF",
+		  "show_addtocart_increase_qty": true
+		}
+	  }
+	]
+  }

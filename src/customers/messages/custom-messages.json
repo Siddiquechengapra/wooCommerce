@@ -1,0 +1,7 @@
+{
+	"LOGIN_SUCCESS": "Customer Logged in Successfully",
+	"CREATE_CUSTOMER_SUCCESS": "Customer Created Successfully",
+	"UPDATE_PASSWORD_SUCCESS": "Password Updated Successfully",
+	"UPDATE_CUSTOMER_SUCCESS": "Customer Updated Successfully",
+	"DELETE_ADDRESS_SUCCESS": "Customer Address Deleted Successfully"
+}

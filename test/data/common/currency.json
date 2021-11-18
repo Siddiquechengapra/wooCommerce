@@ -1,0 +1,9 @@
+{
+	"code": "USD",
+	"name": "United States (US) dollar",
+	"symbol": "&#36;",
+	"_links": {
+		"self": [{ "href": "https://woo-store1.blynklive.com/wp-json/wc/v3/data/currencies/USD" }],
+		"collection": [{ "href": "https://woo-store1.blynklive.com/wp-json/wc/v3/data/currencies" }]
+	}
+}

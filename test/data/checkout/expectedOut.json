@@ -1,0 +1,81 @@
+{
+	"available_tax_rates": [
+		{
+			"cities": [],
+			"city": "",
+			"class": "standard",
+			"compound": true,
+			"country": "IN",
+			"id": 2,
+			"name": "state",
+			"order": 0,
+			"postcode": "",
+			"postcodes": [],
+			"priority": 2,
+			"rate": "20.0000",
+			"shipping": true,
+			"state": "TN"
+		},
+		{
+			"cities": [],
+			"city": "",
+			"class": "standard",
+			"compound": true,
+			"country": "IN",
+			"id": 3,
+			"name": "country",
+			"order": 0,
+			"postcode": "",
+			"postcodes": [],
+			"priority": 1,
+			"rate": "30.0000",
+			"shipping": true,
+			"state": ""
+		}
+	],
+	"price_breakup": [
+		{
+			"label": "Sub Total",
+			"value": 0
+		},
+		{
+			"label": "Discount",
+			"value": 0
+		},
+		{
+			"label": "Estimate Tax",
+			"value": 100
+		},
+		{
+			"label": "Total Product Tax",
+			"value": 0
+		},
+		{
+			"label": "Shipping Tax",
+			"value": 100
+		},
+		{
+			"label": "Shipping & Handling",
+			"value": 150
+		},
+		{
+			"label": "Tax Values with Name",
+			"value": {}
+		}
+	],
+	"shipping_options": [
+		{
+			"default": true,
+			"id": 1234,
+			"label": "Standard Shipping",
+			"value": 150
+		},
+		{
+			"default": false,
+			"id": 1235,
+			"label": "Priority mail includes insurance upto 50$",
+			"value": 100
+		}
+	],
+	"tax_inclusive": false
+}

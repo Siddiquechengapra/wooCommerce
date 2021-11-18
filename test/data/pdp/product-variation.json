@@ -1,0 +1,614 @@
+[
+	{
+		"id": 3302,
+		"date_created": "2021-09-16T19:32:06",
+		"date_created_gmt": "2021-09-16T19:32:06",
+		"date_modified": "2021-09-16T19:39:21",
+		"date_modified_gmt": "2021-09-16T19:39:21",
+		"description": "",
+		"permalink": "https://woo-store1.blynklive.com/product/adidas-superstar-80s/?attribute_pa_size=m&attribute_pa_color=blue&attribute_price=1000",
+		"sku": "1435",
+		"price": "800",
+		"regular_price": "1000",
+		"sale_price": "800",
+		"date_on_sale_from": null,
+		"date_on_sale_from_gmt": null,
+		"date_on_sale_to": null,
+		"date_on_sale_to_gmt": null,
+		"on_sale": true,
+		"status": "publish",
+		"purchasable": true,
+		"virtual": false,
+		"downloadable": false,
+		"downloads": [],
+		"download_limit": -1,
+		"download_expiry": -1,
+		"tax_status": "taxable",
+		"tax_class": "",
+		"manage_stock": false,
+		"stock_quantity": null,
+		"stock_status": "instock",
+		"backorders": "no",
+		"backorders_allowed": false,
+		"backordered": false,
+		"low_stock_amount": null,
+		"weight": "0.4",
+		"dimensions": { "length": "10", "width": "4", "height": "3" },
+		"shipping_class": "",
+		"shipping_class_id": 0,
+		"image": {
+			"id": 3301,
+			"date_created": "2021-09-16T19:31:02",
+			"date_created_gmt": "2021-09-16T19:31:02",
+			"date_modified": "2021-09-20T04:30:48",
+			"date_modified_gmt": "2021-09-20T04:30:48",
+			"src": "https://woo-store1.blynklive.com/wp-content/uploads/2021/06/gmmobile1_grande.png",
+			"name": "White Shoe",
+			"alt": "White Shoe"
+		},
+		"attributes": [
+			{ "id": 2, "name": "size", "option": "M" },
+			{ "id": 1, "name": "color", "option": "blue" },
+			{ "id": 0, "name": "price", "option": "1000" }
+		],
+		"menu_order": 0,
+		"meta_data": [],
+		"_links": {
+			"self": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations/3302"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations"
+				}
+			],
+			"up": [{ "href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944" }]
+		}
+	},
+	{
+		"id": 2972,
+		"date_created": "2021-06-24T17:31:41",
+		"date_created_gmt": "2021-06-24T17:31:41",
+		"date_modified": "2021-06-24T17:35:21",
+		"date_modified_gmt": "2021-06-24T17:35:21",
+		"description": "",
+		"permalink": "https://woo-store1.blynklive.com/product/adidas-superstar-80s/?attribute_pa_size=xl&attribute_pa_color=black&attribute_price=1000",
+		"sku": "13411",
+		"price": "1343",
+		"regular_price": "123214",
+		"sale_price": "1343",
+		"date_on_sale_from": null,
+		"date_on_sale_from_gmt": null,
+		"date_on_sale_to": null,
+		"date_on_sale_to_gmt": null,
+		"on_sale": true,
+		"status": "publish",
+		"purchasable": true,
+		"virtual": false,
+		"downloadable": false,
+		"downloads": [],
+		"download_limit": -1,
+		"download_expiry": -1,
+		"tax_status": "taxable",
+		"tax_class": "",
+		"manage_stock": false,
+		"stock_quantity": null,
+		"stock_status": "instock",
+		"backorders": "no",
+		"backorders_allowed": false,
+		"backordered": false,
+		"low_stock_amount": null,
+		"weight": "0.4",
+		"dimensions": { "length": "10", "width": "4", "height": "3" },
+		"shipping_class": "",
+		"shipping_class_id": 0,
+		"image": {
+			"id": 2960,
+			"date_created": "2021-06-24T17:24:55",
+			"date_created_gmt": "2021-06-24T17:24:55",
+			"date_modified": "2021-06-24T17:25:12",
+			"date_modified_gmt": "2021-06-24T17:25:12",
+			"src": "https://woo-store1.blynklive.com/wp-content/uploads/2021/06/1.jpg",
+			"name": "1",
+			"alt": "Shoe"
+		},
+		"attributes": [
+			{ "id": 2, "name": "size", "option": "XL" },
+			{ "id": 1, "name": "color", "option": "black" },
+			{ "id": 0, "name": "price", "option": "1000" }
+		],
+		"menu_order": 9,
+		"meta_data": [],
+		"_links": {
+			"self": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations/2972"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations"
+				}
+			],
+			"up": [{ "href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944" }]
+		}
+	},
+	{
+		"id": 2971,
+		"date_created": "2021-06-24T17:31:41",
+		"date_created_gmt": "2021-06-24T17:31:41",
+		"date_modified": "2021-06-24T17:35:21",
+		"date_modified_gmt": "2021-06-24T17:35:21",
+		"description": "",
+		"permalink": "https://woo-store1.blynklive.com/product/adidas-superstar-80s/?attribute_pa_size=s&attribute_pa_color=green&attribute_price=1000",
+		"sku": "4567",
+		"price": "123",
+		"regular_price": "1234",
+		"sale_price": "123",
+		"date_on_sale_from": null,
+		"date_on_sale_from_gmt": null,
+		"date_on_sale_to": null,
+		"date_on_sale_to_gmt": null,
+		"on_sale": true,
+		"status": "publish",
+		"purchasable": true,
+		"virtual": false,
+		"downloadable": false,
+		"downloads": [],
+		"download_limit": -1,
+		"download_expiry": -1,
+		"tax_status": "taxable",
+		"tax_class": "",
+		"manage_stock": false,
+		"stock_quantity": null,
+		"stock_status": "instock",
+		"backorders": "no",
+		"backorders_allowed": false,
+		"backordered": false,
+		"low_stock_amount": null,
+		"weight": "0.4",
+		"dimensions": { "length": "10", "width": "4", "height": "3" },
+		"shipping_class": "",
+		"shipping_class_id": 0,
+		"image": {
+			"id": 2960,
+			"date_created": "2021-06-24T17:24:55",
+			"date_created_gmt": "2021-06-24T17:24:55",
+			"date_modified": "2021-06-24T17:25:12",
+			"date_modified_gmt": "2021-06-24T17:25:12",
+			"src": "https://woo-store1.blynklive.com/wp-content/uploads/2021/06/1.jpg",
+			"name": "1",
+			"alt": "Shoe"
+		},
+		"attributes": [
+			{ "id": 2, "name": "size", "option": "S" },
+			{ "id": 1, "name": "color", "option": "Green" },
+			{ "id": 0, "name": "price", "option": "1000" }
+		],
+		"menu_order": 8,
+		"meta_data": [],
+		"_links": {
+			"self": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations/2971"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations"
+				}
+			],
+			"up": [{ "href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944" }]
+		}
+	},
+	{
+		"id": 2970,
+		"date_created": "2021-06-24T17:31:41",
+		"date_created_gmt": "2021-06-24T17:31:41",
+		"date_modified": "2021-06-24T17:35:21",
+		"date_modified_gmt": "2021-06-24T17:35:21",
+		"description": "",
+		"permalink": "https://woo-store1.blynklive.com/product/adidas-superstar-80s/?attribute_pa_size=s&attribute_pa_color=blue&attribute_price=1000",
+		"sku": "9867",
+		"price": "1200",
+		"regular_price": "1400",
+		"sale_price": "1200",
+		"date_on_sale_from": null,
+		"date_on_sale_from_gmt": null,
+		"date_on_sale_to": null,
+		"date_on_sale_to_gmt": null,
+		"on_sale": true,
+		"status": "publish",
+		"purchasable": true,
+		"virtual": false,
+		"downloadable": false,
+		"downloads": [],
+		"download_limit": -1,
+		"download_expiry": -1,
+		"tax_status": "taxable",
+		"tax_class": "",
+		"manage_stock": false,
+		"stock_quantity": null,
+		"stock_status": "instock",
+		"backorders": "no",
+		"backorders_allowed": false,
+		"backordered": false,
+		"low_stock_amount": null,
+		"weight": "0.4",
+		"dimensions": { "length": "10", "width": "4", "height": "3" },
+		"shipping_class": "",
+		"shipping_class_id": 0,
+		"image": {
+			"id": 2978,
+			"date_created": "2021-06-24T17:32:21",
+			"date_created_gmt": "2021-06-24T17:32:21",
+			"date_modified": "2021-06-24T17:32:21",
+			"date_modified_gmt": "2021-06-24T17:32:21",
+			"src": "https://woo-store1.blynklive.com/wp-content/uploads/2021/06/1-1.jpg",
+			"name": "1",
+			"alt": ""
+		},
+		"attributes": [
+			{ "id": 2, "name": "size", "option": "S" },
+			{ "id": 1, "name": "color", "option": "blue" },
+			{ "id": 0, "name": "price", "option": "1000" }
+		],
+		"menu_order": 7,
+		"meta_data": [],
+		"_links": {
+			"self": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations/2970"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations"
+				}
+			],
+			"up": [{ "href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944" }]
+		}
+	},
+	{
+		"id": 2968,
+		"date_created": "2021-06-24T17:31:40",
+		"date_created_gmt": "2021-06-24T17:31:40",
+		"date_modified": "2021-06-24T17:35:21",
+		"date_modified_gmt": "2021-06-24T17:35:21",
+		"description": "",
+		"permalink": "https://woo-store1.blynklive.com/product/adidas-superstar-80s/?attribute_pa_size=m&attribute_pa_color=green&attribute_price=1000",
+		"sku": "1321",
+		"price": "1100",
+		"regular_price": "1300",
+		"sale_price": "1100",
+		"date_on_sale_from": null,
+		"date_on_sale_from_gmt": null,
+		"date_on_sale_to": null,
+		"date_on_sale_to_gmt": null,
+		"on_sale": true,
+		"status": "publish",
+		"purchasable": true,
+		"virtual": false,
+		"downloadable": false,
+		"downloads": [],
+		"download_limit": -1,
+		"download_expiry": -1,
+		"tax_status": "taxable",
+		"tax_class": "",
+		"manage_stock": false,
+		"stock_quantity": null,
+		"stock_status": "instock",
+		"backorders": "no",
+		"backorders_allowed": false,
+		"backordered": false,
+		"low_stock_amount": null,
+		"weight": "0.4",
+		"dimensions": { "length": "10", "width": "4", "height": "3" },
+		"shipping_class": "",
+		"shipping_class_id": 0,
+		"image": {
+			"id": 2960,
+			"date_created": "2021-06-24T17:24:55",
+			"date_created_gmt": "2021-06-24T17:24:55",
+			"date_modified": "2021-06-24T17:25:12",
+			"date_modified_gmt": "2021-06-24T17:25:12",
+			"src": "https://woo-store1.blynklive.com/wp-content/uploads/2021/06/1.jpg",
+			"name": "1",
+			"alt": "Shoe"
+		},
+		"attributes": [
+			{ "id": 2, "name": "size", "option": "M" },
+			{ "id": 1, "name": "color", "option": "Green" },
+			{ "id": 0, "name": "price", "option": "1000" }
+		],
+		"menu_order": 6,
+		"meta_data": [],
+		"_links": {
+			"self": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations/2968"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations"
+				}
+			],
+			"up": [{ "href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944" }]
+		}
+	},
+	{
+		"id": 2966,
+		"date_created": "2021-06-24T17:31:40",
+		"date_created_gmt": "2021-06-24T17:31:40",
+		"date_modified": "2021-06-24T17:36:41",
+		"date_modified_gmt": "2021-06-24T17:36:41",
+		"description": "<p>Try</p>\n",
+		"permalink": "https://woo-store1.blynklive.com/product/adidas-superstar-80s/?attribute_pa_size=m&attribute_pa_color=black&attribute_price=1000",
+		"sku": "1232",
+		"price": "300",
+		"regular_price": "1000",
+		"sale_price": "300",
+		"date_on_sale_from": null,
+		"date_on_sale_from_gmt": null,
+		"date_on_sale_to": null,
+		"date_on_sale_to_gmt": null,
+		"on_sale": true,
+		"status": "publish",
+		"purchasable": true,
+		"virtual": false,
+		"downloadable": false,
+		"downloads": [],
+		"download_limit": -1,
+		"download_expiry": -1,
+		"tax_status": "taxable",
+		"tax_class": "",
+		"manage_stock": false,
+		"stock_quantity": null,
+		"stock_status": "instock",
+		"backorders": "no",
+		"backorders_allowed": false,
+		"backordered": false,
+		"low_stock_amount": null,
+		"weight": "0.9",
+		"dimensions": { "length": "32", "width": "4", "height": "6" },
+		"shipping_class": "",
+		"shipping_class_id": 0,
+		"image": {
+			"id": 3301,
+			"date_created": "2021-09-16T19:31:02",
+			"date_created_gmt": "2021-09-16T19:31:02",
+			"date_modified": "2021-09-20T04:30:48",
+			"date_modified_gmt": "2021-09-20T04:30:48",
+			"src": "https://woo-store1.blynklive.com/wp-content/uploads/2021/06/gmmobile1_grande.png",
+			"name": "White Shoe",
+			"alt": "White Shoe"
+		},
+		"attributes": [
+			{ "id": 2, "name": "size", "option": "M" },
+			{ "id": 1, "name": "color", "option": "black" },
+			{ "id": 0, "name": "price", "option": "1000" }
+		],
+		"menu_order": 5,
+		"meta_data": [],
+		"_links": {
+			"self": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations/2966"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations"
+				}
+			],
+			"up": [{ "href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944" }]
+		}
+	},
+	{
+		"id": 2965,
+		"date_created": "2021-06-24T17:31:40",
+		"date_created_gmt": "2021-06-24T17:31:40",
+		"date_modified": "2021-06-24T17:36:41",
+		"date_modified_gmt": "2021-06-24T17:36:41",
+		"description": "<p>Variant</p>\n",
+		"permalink": "https://woo-store1.blynklive.com/product/adidas-superstar-80s/?attribute_pa_size=l&attribute_pa_color=green&attribute_price=1000",
+		"sku": "1236",
+		"price": "700",
+		"regular_price": "1000",
+		"sale_price": "700",
+		"date_on_sale_from": null,
+		"date_on_sale_from_gmt": null,
+		"date_on_sale_to": null,
+		"date_on_sale_to_gmt": null,
+		"on_sale": true,
+		"status": "publish",
+		"purchasable": true,
+		"virtual": false,
+		"downloadable": false,
+		"downloads": [],
+		"download_limit": -1,
+		"download_expiry": -1,
+		"tax_status": "taxable",
+		"tax_class": "",
+		"manage_stock": false,
+		"stock_quantity": null,
+		"stock_status": "instock",
+		"backorders": "no",
+		"backorders_allowed": false,
+		"backordered": false,
+		"low_stock_amount": null,
+		"weight": ".4",
+		"dimensions": { "length": "10", "width": "4", "height": "3" },
+		"shipping_class": "",
+		"shipping_class_id": 0,
+		"image": {
+			"id": 2960,
+			"date_created": "2021-06-24T17:24:55",
+			"date_created_gmt": "2021-06-24T17:24:55",
+			"date_modified": "2021-06-24T17:25:12",
+			"date_modified_gmt": "2021-06-24T17:25:12",
+			"src": "https://woo-store1.blynklive.com/wp-content/uploads/2021/06/1.jpg",
+			"name": "1",
+			"alt": "Shoe"
+		},
+		"attributes": [
+			{ "id": 2, "name": "size", "option": "L" },
+			{ "id": 1, "name": "color", "option": "Green" },
+			{ "id": 0, "name": "price", "option": "1000" }
+		],
+		"menu_order": 4,
+		"meta_data": [],
+		"_links": {
+			"self": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations/2965"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations"
+				}
+			],
+			"up": [{ "href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944" }]
+		}
+	},
+	{
+		"id": 2964,
+		"date_created": "2021-06-24T17:31:39",
+		"date_created_gmt": "2021-06-24T17:31:39",
+		"date_modified": "2021-06-24T17:36:41",
+		"date_modified_gmt": "2021-06-24T17:36:41",
+		"description": "<p>Variant</p>\n",
+		"permalink": "https://woo-store1.blynklive.com/product/adidas-superstar-80s/?attribute_pa_size=l&attribute_pa_color=blue&attribute_price=1000",
+		"sku": "1235",
+		"price": "800",
+		"regular_price": "1000",
+		"sale_price": "800",
+		"date_on_sale_from": null,
+		"date_on_sale_from_gmt": null,
+		"date_on_sale_to": null,
+		"date_on_sale_to_gmt": null,
+		"on_sale": true,
+		"status": "publish",
+		"purchasable": true,
+		"virtual": false,
+		"downloadable": false,
+		"downloads": [],
+		"download_limit": -1,
+		"download_expiry": -1,
+		"tax_status": "taxable",
+		"tax_class": "",
+		"manage_stock": false,
+		"stock_quantity": null,
+		"stock_status": "instock",
+		"backorders": "no",
+		"backorders_allowed": false,
+		"backordered": false,
+		"low_stock_amount": null,
+		"weight": "0.4",
+		"dimensions": { "length": "10", "width": "4", "height": "3" },
+		"shipping_class": "",
+		"shipping_class_id": 0,
+		"image": {
+			"id": 2960,
+			"date_created": "2021-06-24T17:24:55",
+			"date_created_gmt": "2021-06-24T17:24:55",
+			"date_modified": "2021-06-24T17:25:12",
+			"date_modified_gmt": "2021-06-24T17:25:12",
+			"src": "https://woo-store1.blynklive.com/wp-content/uploads/2021/06/1.jpg",
+			"name": "1",
+			"alt": "Shoe"
+		},
+		"attributes": [
+			{ "id": 2, "name": "size", "option": "L" },
+			{ "id": 1, "name": "color", "option": "blue" },
+			{ "id": 0, "name": "price", "option": "1000" }
+		],
+		"menu_order": 3,
+		"meta_data": [],
+		"_links": {
+			"self": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations/2964"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations"
+				}
+			],
+			"up": [{ "href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944" }]
+		}
+	},
+	{
+		"id": 2963,
+		"date_created": "2021-06-24T17:31:39",
+		"date_created_gmt": "2021-06-24T17:31:39",
+		"date_modified": "2021-06-24T17:35:20",
+		"date_modified_gmt": "2021-06-24T17:35:20",
+		"description": "",
+		"permalink": "https://woo-store1.blynklive.com/product/adidas-superstar-80s/?attribute_pa_size=l&attribute_pa_color=black&attribute_price=1000",
+		"sku": "1234",
+		"price": "800",
+		"regular_price": "1000",
+		"sale_price": "800",
+		"date_on_sale_from": null,
+		"date_on_sale_from_gmt": null,
+		"date_on_sale_to": null,
+		"date_on_sale_to_gmt": null,
+		"on_sale": true,
+		"status": "publish",
+		"purchasable": true,
+		"virtual": false,
+		"downloadable": false,
+		"downloads": [],
+		"download_limit": -1,
+		"download_expiry": -1,
+		"tax_status": "taxable",
+		"tax_class": "",
+		"manage_stock": false,
+		"stock_quantity": null,
+		"stock_status": "instock",
+		"backorders": "no",
+		"backorders_allowed": false,
+		"backordered": false,
+		"low_stock_amount": null,
+		"weight": "0.4",
+		"dimensions": { "length": "10", "width": "4", "height": "2" },
+		"shipping_class": "",
+		"shipping_class_id": 0,
+		"image": {
+			"id": 2978,
+			"date_created": "2021-06-24T17:32:21",
+			"date_created_gmt": "2021-06-24T17:32:21",
+			"date_modified": "2021-06-24T17:32:21",
+			"date_modified_gmt": "2021-06-24T17:32:21",
+			"src": "https://woo-store1.blynklive.com/wp-content/uploads/2021/06/1-1.jpg",
+			"name": "1",
+			"alt": ""
+		},
+		"attributes": [
+			{ "id": 2, "name": "size", "option": "L" },
+			{ "id": 1, "name": "color", "option": "black" },
+			{ "id": 0, "name": "price", "option": "1000" }
+		],
+		"menu_order": 2,
+		"meta_data": [],
+		"_links": {
+			"self": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations/2963"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944/variations"
+				}
+			],
+			"up": [{ "href": "https://woo-store1.blynklive.com/wp-json/wc/v3/products/2944" }]
+		}
+	}
+]

@@ -1,0 +1,198 @@
+[
+	{
+		"id": 1,
+		"country": "IN",
+		"state": "TN",
+		"postcode": "600001",
+		"city": "",
+		"rate": "10.0000",
+		"name": "code",
+		"priority": 2,
+		"compound": true,
+		"shipping": true,
+		"order": 0,
+		"class": "standard",
+		"postcodes": ["600001"],
+		"cities": [],
+		"_links": {
+			"self": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/taxes/1"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/taxes"
+				}
+			]
+		}
+	},
+	{
+		"id": 2,
+		"country": "IN",
+		"state": "TN",
+		"postcode": "",
+		"city": "",
+		"rate": "20.0000",
+		"name": "state",
+		"priority": 2,
+		"compound": true,
+		"shipping": true,
+		"order": 0,
+		"class": "standard",
+		"postcodes": [],
+		"cities": [],
+		"_links": {
+			"self": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/taxes/2"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/taxes"
+				}
+			]
+		}
+	},
+	{
+		"id": 3,
+		"country": "IN",
+		"state": "",
+		"postcode": "",
+		"city": "",
+		"rate": "30.0000",
+		"name": "country",
+		"priority": 1,
+		"compound": true,
+		"shipping": true,
+		"order": 0,
+		"class": "standard",
+		"postcodes": [],
+		"cities": [],
+		"_links": {
+			"self": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/taxes/3"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/taxes"
+				}
+			]
+		}
+	},
+	{
+		"id": 9,
+		"country": "US",
+		"state": "",
+		"postcode": "",
+		"city": "DENVER",
+		"rate": "30.0000",
+		"name": "Tax",
+		"priority": 1,
+		"compound": false,
+		"shipping": true,
+		"order": 0,
+		"class": "us",
+		"postcodes": [],
+		"cities": ["DENVER"],
+		"_links": {
+			"self": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/taxes/9"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/taxes"
+				}
+			]
+		}
+	},
+	{
+		"id": 10,
+		"country": "US",
+		"state": "CO",
+		"postcode": "",
+		"city": "",
+		"rate": "20.0000",
+		"name": "Tax",
+		"priority": 1,
+		"compound": false,
+		"shipping": true,
+		"order": 0,
+		"class": "us",
+		"postcodes": [],
+		"cities": [],
+		"_links": {
+			"self": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/taxes/10"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/taxes"
+				}
+			]
+		}
+	},
+	{
+		"id": 11,
+		"country": "US",
+		"state": "",
+		"postcode": "48375",
+		"city": "NOVI",
+		"rate": "10.0000",
+		"name": "Tax",
+		"priority": 1,
+		"compound": false,
+		"shipping": true,
+		"order": 0,
+		"class": "us",
+		"postcodes": ["48375"],
+		"cities": ["NOVI"],
+		"_links": {
+			"self": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/taxes/11"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/taxes"
+				}
+			]
+		}
+	},
+	{
+		"id": 12,
+		"country": "IN",
+		"state": "TN",
+		"postcode": "624000",
+		"city": "MADURAI",
+		"rate": "10.0000",
+		"name": "State Tax",
+		"priority": 1,
+		"compound": false,
+		"shipping": true,
+		"order": 0,
+		"class": "standard",
+		"postcodes": ["600001", "624000"],
+		"cities": ["CHENNAI", "MADURAI"],
+		"_links": {
+			"self": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/taxes/12"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://woo-store1.blynklive.com/wp-json/wc/v3/taxes"
+				}
+			]
+		}
+	}
+]

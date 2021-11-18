@@ -1,0 +1,309 @@
+{
+	"version": "v1",
+	"page_name": "pdp",
+	"store_id": "a2b",
+	"config": {
+		"bg_color": "#F6F6F6"
+	},
+	"data": {
+		"product_id": "2944"
+	},
+	"header_widgets": [
+		{
+			"widget_name": "toolbar",
+			"config": {
+				"show_back_icon": true,
+				"show_cart_icon": true,
+				"show_search_icon": true,
+				"show_share_icon": false
+			}
+		}
+	],
+	"scroll_widgets": [
+		{
+			"widget_name": "media",
+			"position": 0,
+			"config": {
+				"align_whislist_icon": "bottom_right",
+				"show_whislist_icon": true,
+				"show_pagination_icon": true,
+				"media_aspect_ratio": 1,
+				"image_content_mode": "aspect_fill"
+			},
+			"data": {
+				"urls": [
+					{
+						"media_id": "3301",
+						"url": "https://woo-store1.blynklive.com/wp-content/uploads/2021/06/gmmobile1_grande.png"
+					},
+					{
+						"media_id": "2461",
+						"url": "https://woo-store1.blynklive.com/wp-content/uploads/2021/03/sports-shoe1.jpg"
+					},
+					{
+						"media_id": "2462",
+						"url": "https://woo-store1.blynklive.com/wp-content/uploads/2021/03/sports-shoe2.jpg"
+					},
+					{
+						"media_id": "2465",
+						"url": "https://woo-store1.blynklive.com/wp-content/uploads/2021/03/sports-shoe5.jpg"
+					}
+				]
+			}
+		},
+		{
+			"widget_name": "product_name",
+			"position": 1,
+			"config": {
+				"align": "center",
+				"font_size": 16,
+				"font_color": "#000000",
+				"font_type": "regular"
+			},
+			"data": {
+				"product_name": "ADIDAS | SUPERSTAR 80S"
+			}
+		},
+		{
+			"widget_name": "reviews",
+			"position": 2,
+			"config": {
+				"align": "left",
+				"font_size": 14,
+				"font_color": "#000000",
+				"font_type": "regular",
+				"star_color": "#EFEFEF",
+				"show_share_icon": false,
+				"align_share_icon": "right"
+			},
+			"data": {
+				"average_rating": 3,
+				"reviews_count": 1
+			}
+		},
+		{
+			"widget_name": "product_price",
+			"position": 3,
+			"config": {
+				"align": "left",
+				"show_price": true,
+				"show_selling_price": true,
+				"show_discount_price": true,
+				"regular_price_font_size": 16,
+				"regular_price_font_color": "#000000",
+				"regular_price_font_type": "strikethrough",
+				"sale_price_font_size": 16,
+				"sale_price_font_color": "#000000",
+				"sale_price_font_type": "regular",
+				"discount_percentage_font_size": 14,
+				"discount_percentage_font_color": "#000000",
+				"discount_percentage_font_type": "regular"
+			},
+			"data": {
+				"regular_price": null,
+				"sale_price": null,
+				"price_range": [123, 1343],
+				"discount_percentage": null,
+				"inventory_quantity": null
+			}
+		},
+		{
+			"widget_name": "variant_horizontal",
+			"position": 4,
+			"config": {
+				"show_title": true,
+				"title_font_size": 14,
+				"title_font_color": "#000000",
+				"title_font_type": "medium",
+				"show_value": true,
+				"value_font_size": 12,
+				"value_font_color": "#000000",
+				"value_font_type": "regular",
+				"show_size_chart": true
+			},
+			"data": {
+				"options": [
+					{
+						"name": "size",
+						"option_values": ["M", "XL", "S", "L"]
+					},
+					{
+						"name": "color",
+						"option_values": ["blue", "black", "Green"]
+					},
+					{
+						"name": "price",
+						"option_values": ["1000"]
+					}
+				],
+				"variants": [
+					{
+						"id": "3302",
+						"product_id": "2944",
+						"option_string": "M||blue||1000",
+						"regular_price": 1000,
+						"sale_price": 800,
+						"discount_percentage": "20",
+						"inventory_quantity": null,
+						"media_id": "3301"
+					},
+					{
+						"id": "2972",
+						"product_id": "2944",
+						"option_string": "XL||black||1000",
+						"regular_price": 123214,
+						"sale_price": 1343,
+						"discount_percentage": "99",
+						"inventory_quantity": null,
+						"media_id": "2960"
+					},
+					{
+						"id": "2971",
+						"product_id": "2944",
+						"option_string": "S||Green||1000",
+						"regular_price": 1234,
+						"sale_price": 123,
+						"discount_percentage": "90",
+						"inventory_quantity": null,
+						"media_id": "2960"
+					},
+					{
+						"id": "2970",
+						"product_id": "2944",
+						"option_string": "S||blue||1000",
+						"regular_price": 1400,
+						"sale_price": 1200,
+						"discount_percentage": "14",
+						"inventory_quantity": null,
+						"media_id": "2978"
+					},
+					{
+						"id": "2968",
+						"product_id": "2944",
+						"option_string": "M||Green||1000",
+						"regular_price": 1300,
+						"sale_price": 1100,
+						"discount_percentage": "15",
+						"inventory_quantity": null,
+						"media_id": "2960"
+					},
+					{
+						"id": "2966",
+						"product_id": "2944",
+						"option_string": "M||black||1000",
+						"regular_price": 1000,
+						"sale_price": 300,
+						"discount_percentage": "70",
+						"inventory_quantity": null,
+						"media_id": "3301"
+					},
+					{
+						"id": "2965",
+						"product_id": "2944",
+						"option_string": "L||Green||1000",
+						"regular_price": 1000,
+						"sale_price": 700,
+						"discount_percentage": "30",
+						"inventory_quantity": null,
+						"media_id": "2960"
+					},
+					{
+						"id": "2964",
+						"product_id": "2944",
+						"option_string": "L||blue||1000",
+						"regular_price": 1000,
+						"sale_price": 800,
+						"discount_percentage": "20",
+						"inventory_quantity": null,
+						"media_id": "2960"
+					},
+					{
+						"id": "2963",
+						"product_id": "2944",
+						"option_string": "L||black||1000",
+						"regular_price": 1000,
+						"sale_price": 800,
+						"discount_percentage": "20",
+						"inventory_quantity": null,
+						"media_id": "2978"
+					}
+				]
+			}
+		},
+		{
+			"widget_name": "product_description",
+			"position": 5,
+			"config": {
+				"content_font_size": 12,
+				"content_font_color": "#000000",
+				"content_font_type": "regular",
+				"title": {
+					"align_title": "left",
+					"show_title": true,
+					"title_font_size": 14,
+					"title_font_color": "#000000",
+					"title_font_type": "medium"
+				},
+				"readall": {
+					"readall_font_size": 12,
+					"readall_font_color": "#000000",
+					"readall_font_type": "regular"
+				}
+			},
+			"data": {
+				"product_description": "<p>There's a shell toe for every season, and the Adidas Originals Superstar 80s shoes have a full-grain leather upper with a shiny badge on the tongue that makes these shoes ready for any time of year.</p>\n",
+				"short_description": "There&#8217;s a shell toe for every season, and the Adidas Originals Superstar 80s shoes have a full-grain leather upper with a shiny badge on the tongue that makes these shoes ready for any time of year. document.createElement('video');       shoe  "
+			}
+		},
+		{
+			"widget_name": "recently_viewed",
+			"position": 6,
+			"config": {
+				"regular_price_font_size": 14,
+				"regular_price_font_color": "#000000",
+				"regular_price_font_type": "strikethrough",
+				"sale_price_font_size": 14,
+				"sale_price_font_color": "#000000",
+				"sale_price_font_type": "medium",
+				"discount_percentage_font_size": 10,
+				"discount_percentage_font_color": "#000000",
+				"discount_percentage_font_type": "regular",
+				"product_name_font_color": "#000000",
+				"product_name_font_type": "regular",
+				"product_name_font_size": 12,
+				"show_wishlist": false,
+				"image_aspect_ratio": 1,
+				"image_content_mode": "aspect_fit",
+				"display_no_of_product": 15,
+				"title": {
+					"align_title": "left",
+					"show_title": true,
+					"title_font_size": 14,
+					"title_font_color": "#000000",
+					"title_font_type": "medium"
+				}
+			}
+		}
+	],
+	"footer_widgets": [
+		{
+			"widget_name": "add_to_cart",
+			"config": {
+				"align": "center",
+				"show_buynow_button": true,
+				"show_addtocart_button": true,
+				"buynow_button_color": "#FFFFFF",
+				"buynow_button_broder": "#0000000",
+				"buynow_button_text_color": "#000000",
+				"addtocart_button_color": "#5F2EEA",
+				"addtocart_button_broder": "#5F2EEA",
+				"addtocart_button_text_color": "#FFFFFF",
+				"show_addtocart_increase_qty": true,
+				"buynow_button_fontsize": 16,
+				"addtocart_button_fontsize": 16,
+				"buynow_button_font_type": "medium",
+				"addtocart_button_font_type": "medium"
+			}
+		}
+	]
+}

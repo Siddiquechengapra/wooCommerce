@@ -1,0 +1,219 @@
+{
+	"tax_inclusive": false,
+	"products": [
+		{
+			"product_id": "3424",
+			"variant_id": "3477",
+			"inventory_quantity": 40,
+			"regular_price": 450,
+			"sale_price": 400,
+			"discount_percentage": "11",
+			"discount_value": 50,
+			"total_discount_value": 50,
+			"price": 400,
+			"qty": 1,
+			"total_sale_price": 400,
+			"tax_value": 224,
+			"total_tax_value": 224,
+			"tax_label": "ex VAT",
+			"tax_class": "",
+			"tax_status": "taxable",
+			"tax_value_with_name": {
+				"country": 120,
+				"state": 104
+			},
+			"non_compound_tax": {
+				"total": 0
+			},
+			"compound_tax": {
+				"total": 224,
+				"country": {
+					"rate": 30,
+					"tax_value": 120
+				},
+				"state": {
+					"rate": 20,
+					"tax_value": 104
+				}
+			}
+		},
+		{
+			"product_id": "3418",
+			"variant_id": "3492",
+			"inventory_quantity": 30,
+			"regular_price": 150.99,
+			"sale_price": 140.99,
+			"discount_percentage": "7",
+			"discount_value": 10,
+			"total_discount_value": 10,
+			"price": 140.99,
+			"qty": 1,
+			"total_sale_price": 140.99,
+			"tax_value": 79,
+			"total_tax_value": 79,
+			"tax_label": "ex VAT",
+			"tax_class": "",
+			"tax_status": "taxable",
+			"tax_value_with_name": {
+				"country": 42,
+				"state": 37
+			},
+			"non_compound_tax": {
+				"total": 0
+			},
+			"compound_tax": {
+				"total": 78.9544,
+				"country": {
+					"rate": 30,
+					"tax_value": 42.297000000000004
+				},
+				"state": {
+					"rate": 20,
+					"tax_value": 36.6574
+				}
+			}
+		},
+		{
+			"product_id": "2997",
+			"variant_id": "3000",
+			"inventory_quantity": 100,
+			"regular_price": 30,
+			"sale_price": 20,
+			"discount_percentage": "33",
+			"discount_value": 10,
+			"total_discount_value": 40,
+			"price": 20,
+			"qty": 4,
+			"total_sale_price": 80,
+			"tax_value": 11,
+			"total_tax_value": 44,
+			"tax_label": "ex VAT",
+			"tax_class": "",
+			"tax_status": "taxable",
+			"tax_value_with_name": {
+				"country": 6,
+				"state": 5
+			},
+			"non_compound_tax": {
+				"total": 0
+			},
+			"compound_tax": {
+				"total": 11.2,
+				"country": {
+					"rate": 30,
+					"tax_value": 6
+				},
+				"state": {
+					"rate": 20,
+					"tax_value": 5.2
+				}
+			}
+		},
+		{
+			"product_id": "3401",
+			"variant_id": "",
+			"inventory_quantity": 40,
+			"regular_price": null,
+			"sale_price": null,
+			"discount_percentage": null,
+			"discount_value": null,
+			"total_discount_value": 0,
+			"price": 48,
+			"qty": 1,
+			"total_sale_price": 48,
+			"tax_value": 0,
+			"total_tax_value": 0,
+			"tax_label": "ex VAT",
+			"tax_class": "us",
+			"tax_status": "taxable",
+			"tax_value_with_name": {},
+			"non_compound_tax": {
+				"total": 0
+			},
+			"compound_tax": {
+				"total": 0
+			}
+		}
+	],
+	"price_breakup": [
+		{
+			"label": "Sub Total",
+			"value": 668.99
+		},
+		{
+			"label": "Discount",
+			"value": 100
+		},
+		{
+			"label": "Estimate Tax",
+			"value": 447
+		},
+		{
+			"label": "Total Product Tax",
+			"value": 347
+		},
+		{
+			"label": "Shipping Tax",
+			"value": 100
+		},
+		{
+			"label": "Shipping & Handling",
+			"value": 150
+		},
+		{
+			"label": "Tax Values with Name",
+			"value": {
+				"country": 168,
+				"state": 146
+			}
+		}
+	],
+	"shipping_options": [
+		{
+			"id": 1234,
+			"label": "Standard Shipping",
+			"value": 150,
+			"default": true
+		},
+		{
+			"id": 1235,
+			"label": "Priority mail includes insurance upto 50$",
+			"value": 100,
+			"default": false
+		}
+	],
+	"available_tax_rates": [
+		{
+			"id": 2,
+			"country": "IN",
+			"state": "TN",
+			"postcode": "",
+			"city": "",
+			"rate": "20.0000",
+			"name": "state",
+			"priority": 2,
+			"compound": true,
+			"shipping": true,
+			"order": 0,
+			"class": "standard",
+			"postcodes": [],
+			"cities": []
+		},
+		{
+			"id": 3,
+			"country": "IN",
+			"state": "",
+			"postcode": "",
+			"city": "",
+			"rate": "30.0000",
+			"name": "country",
+			"priority": 1,
+			"compound": true,
+			"shipping": true,
+			"order": 0,
+			"class": "standard",
+			"postcodes": [],
+			"cities": []
+		}
+	]
+}

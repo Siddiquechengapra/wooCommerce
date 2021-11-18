@@ -1,0 +1,57 @@
+{
+    "id": 55,
+    "date_created": "2021-08-31T05:45:14",
+    "date_created_gmt": "2021-08-31T05:45:14",
+    "date_modified": "2021-10-17T19:43:26",
+    "date_modified_gmt": "2021-10-17T19:43:26",
+    "email": "ken@miles.com",
+    "first_name": "Ken",
+    "last_name": "Miles",
+    "role": "customer",
+    "username": "ken.miles",
+    "billing": {
+        "first_name": "Ken",
+        "last_name": "Miles",
+        "company": "",
+        "address_1": "969 Market",
+        "address_2": "",
+        "city": "San Francisco",
+        "postcode": "94103",
+        "country": "US",
+        "state": "CA",
+        "email": "ken@miles.com",
+        "phone": "(555) 555-5555"
+    },
+    "shipping": {
+        "first_name": "Ken",
+        "last_name": "Miles",
+        "company": "",
+        "address_1": "969 Market",
+        "address_2": "",
+        "city": "San Francisco",
+        "postcode": "94103",
+        "country": "US",
+        "state": "CA"
+    },
+    "is_paying_customer": true,
+    "avatar_url": "https:\/\/secure.gravatar.com\/avatar\/02f978c6df3920cb1f58baedb0097ede?s=96&d=mm&r=g",
+    "meta_data": [
+        {
+            "id": 1418,
+            "key": "wc_last_active",
+            "value": "1630368000"
+        }
+    ],
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/woo-store1.blynklive.com\/wp-json\/wc\/v3\/customers\/55"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/woo-store1.blynklive.com\/wp-json\/wc\/v3\/customers"
+            }
+        ]
+    }
+}
